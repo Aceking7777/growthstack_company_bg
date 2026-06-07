@@ -1,0 +1,7 @@
+.o_web_client {
+    background-size: cover !important;
+    background-position: center center !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+    transition: background 0.4s ease;
+}
